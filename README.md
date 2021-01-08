@@ -2,7 +2,7 @@
 Cheet Sheet
 LikeLion 8th 임우열
 
-## 🙏[심화] 같이푸는 PYTHON🙏
+## 🙏[심화] 같이 푸는 PYTHON🙏
 
 ### 📌Crawling
 
