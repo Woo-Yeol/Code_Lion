@@ -19,4 +19,4 @@ Crawing Results [파일로 출력하기 & 실시간 검색어 크롤링 프로�
 **[[OpenWeather](/[심화]_같이_푸는_PYTHON/[Step2]_날씨정보받아오기/OpenWeather.py)]**<br/> 
 
 API_key_발급 [API] **[[Summary](/[심화]_같이_푸는_PYTHON/[Step2]_날씨정보받아오기/API_key_발급.md)]**<br/>
-날씨_받아오기 [API] **[[Summary](/[심화]_같이_푸는_PYTHON/[Step2]_날씨정보받아오기/날씨_받아오기.md)]**<br/>
+날씨_받아오기 [날씨 받아오기 및 출력하기] **[[Summary](/[심화]_같이_푸는_PYTHON/[Step2]_날씨정보받아오기/날씨_받아오기.md)]**<br/>
