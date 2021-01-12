@@ -20,3 +20,9 @@ Crawing Results [파일로 출력하기 & 실시간 검색어 크롤링 프로�
 
 API_key_발급 [API] **[[Summary](/[심화]_같이_푸는_PYTHON/[Step2]_날씨정보받아오기/API_key_발급.md)]**<br/>
 날씨_받아오기 [날씨 받아오기 및 출력하기] **[[Summary](/[심화]_같이_푸는_PYTHON/[Step2]_날씨정보받아오기/날씨_받아오기.md)]**<br/>
+
+### 📌GoogleTrans
+
+**[[GoogleTrans](/[심화]_같이_푸는_PYTHON/[Step3]_번역하기/translate.py)]**<br/> 
+
+GoogleTrans 알아보기 [GoogleTrans] **[[Summary](/[심화]_같이_푸는_PYTHON/[Step3]_번역하기/googletrans_알아보기.md)]**<br/>
