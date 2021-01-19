@@ -41,3 +41,5 @@ SMTP[SMTP / MIME] [Summary] **[[Summary](/[심화]_같이_푸는_PYTHON/[Step4]_
 
 
 # END
+
+*Copyright © all rights reserved Lion[[출처](https://www.codelion.net)]*
